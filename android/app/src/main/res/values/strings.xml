@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DiagnoziApp</string>
+    <string name="splash_title">DIAGNOZI</string>
+    <string name="splash_slogan">WE SAVE LIVES</string>
+    <string name="splash_bottom1">Secured by</string>
+    <string name="splash_bottom2">Diagnozi.</string>
+    <string name="facebook_app_id">1312048319394603</string>
+    <string name="facebook_client_token">f2f2704458a3dd600839e2fed1dad33b</string>
+</resources>

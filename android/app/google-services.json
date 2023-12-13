@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542578961343",
+    "project_id": "diagnozi-dev",
+    "storage_bucket": "diagnozi-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542578961343:android:a02437daee5ea5db2ccf0a",
+        "android_client_info": {
+          "package_name": "com.diagnoziapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542578961343-7hn854o7m6o6nfmmdi3t038djvqgcghl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR3jbPUueyVG5NT_mDuzq6aN3wE0_SVzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542578961343-7hn854o7m6o6nfmmdi3t038djvqgcghl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
